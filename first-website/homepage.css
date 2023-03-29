@@ -1,0 +1,16 @@
+body {
+    margin:0px;
+}
+.header {
+    display:flex;
+    background-color: #1F2937;
+    color:#F9FAF8;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin:0px;
+}
+.links {
+    display:flex;
+    
+}
