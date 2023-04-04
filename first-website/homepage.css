@@ -12,5 +12,22 @@ body {
 }
 .links {
     display:flex;
+    gap : 12px;
+}
+.first-body {
+    display:flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color:#F9FAF8;
+    flex: 1 1 0px;
+    
+}
+.left-box{
+    display:flex;
+    flex-direction: column;
+    justify-self: flex-start;
+}
+.right-box{
+    display:flex;
     
 }
